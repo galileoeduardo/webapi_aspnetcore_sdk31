@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\webapi_aspnetcore_sdk31\\src\\Api.Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
+      "projectPath": "C:\\webapi_aspnetcore_sdk31\\src\\Api.Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\galil\\.nuget\\packages\\",
-      "outputPath": "C:\\curso_api_netcore\\src\\Api.Domain\\obj\\",
+      "outputPath": "C:\\webapi_aspnetcore_sdk31\\src\\Api.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\galil\\AppData\\Roaming\\NuGet\\NuGet.Config",

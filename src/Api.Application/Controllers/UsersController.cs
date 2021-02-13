@@ -25,8 +25,8 @@ namespace Api.Application.Controllers
 
             try
             {
-
-                return Ok(await _service.GetAll());
+                var result = await _service.GetAll();
+                return Ok(result);
 
             }
             catch (ArgumentException e)

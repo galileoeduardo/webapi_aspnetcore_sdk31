@@ -5532,11 +5532,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
+      "projectUniqueName": "C:\\webapi_aspnetcore_sdk31\\src\\Api.CrossCutting\\CrossCutting.csproj",
       "projectName": "CrossCutting",
-      "projectPath": "C:\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
+      "projectPath": "C:\\webapi_aspnetcore_sdk31\\src\\Api.CrossCutting\\CrossCutting.csproj",
       "packagesPath": "C:\\Users\\galil\\.nuget\\packages\\",
-      "outputPath": "C:\\curso_api_netcore\\src\\Api.CrossCutting\\obj\\",
+      "outputPath": "C:\\webapi_aspnetcore_sdk31\\src\\Api.CrossCutting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\galil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5553,14 +5553,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
-              "projectPath": "C:\\curso_api_netcore\\src\\Api.Data\\Data.csproj"
+            "C:\\webapi_aspnetcore_sdk31\\src\\Api.Data\\Data.csproj": {
+              "projectPath": "C:\\webapi_aspnetcore_sdk31\\src\\Api.Data\\Data.csproj"
             },
-            "C:\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "C:\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
+            "C:\\webapi_aspnetcore_sdk31\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "C:\\webapi_aspnetcore_sdk31\\src\\Api.Domain\\Domain.csproj"
             },
-            "C:\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {
-              "projectPath": "C:\\curso_api_netcore\\src\\Api.Service\\Service.csproj"
+            "C:\\webapi_aspnetcore_sdk31\\src\\Api.Service\\Service.csproj": {
+              "projectPath": "C:\\webapi_aspnetcore_sdk31\\src\\Api.Service\\Service.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {}
+    "C:\\webapi_aspnetcore_sdk31\\src\\Api.Service\\Service.csproj": {}
   },
   "projects": {
-    "C:\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
+    "C:\\webapi_aspnetcore_sdk31\\src\\Api.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\curso_api_netcore\\src\\Api.Data\\Data.csproj",
+        "projectUniqueName": "C:\\webapi_aspnetcore_sdk31\\src\\Api.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\curso_api_netcore\\src\\Api.Data\\Data.csproj",
+        "projectPath": "C:\\webapi_aspnetcore_sdk31\\src\\Api.Data\\Data.csproj",
         "packagesPath": "C:\\Users\\galil\\.nuget\\packages\\",
-        "outputPath": "C:\\curso_api_netcore\\src\\Api.Data\\obj\\",
+        "outputPath": "C:\\webapi_aspnetcore_sdk31\\src\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\galil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
+              "C:\\webapi_aspnetcore_sdk31\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\webapi_aspnetcore_sdk31\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
+    "C:\\webapi_aspnetcore_sdk31\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\webapi_aspnetcore_sdk31\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj",
+        "projectPath": "C:\\webapi_aspnetcore_sdk31\\src\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\galil\\.nuget\\packages\\",
-        "outputPath": "C:\\curso_api_netcore\\src\\Api.Domain\\obj\\",
+        "outputPath": "C:\\webapi_aspnetcore_sdk31\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\galil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {
+    "C:\\webapi_aspnetcore_sdk31\\src\\Api.Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\curso_api_netcore\\src\\Api.Service\\Service.csproj",
+        "projectUniqueName": "C:\\webapi_aspnetcore_sdk31\\src\\Api.Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\curso_api_netcore\\src\\Api.Service\\Service.csproj",
+        "projectPath": "C:\\webapi_aspnetcore_sdk31\\src\\Api.Service\\Service.csproj",
         "packagesPath": "C:\\Users\\galil\\.nuget\\packages\\",
-        "outputPath": "C:\\curso_api_netcore\\src\\Api.Service\\obj\\",
+        "outputPath": "C:\\webapi_aspnetcore_sdk31\\src\\Api.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\galil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -166,11 +166,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\curso_api_netcore\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\curso_api_netcore\\src\\Api.Data\\Data.csproj"
+              "C:\\webapi_aspnetcore_sdk31\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "C:\\webapi_aspnetcore_sdk31\\src\\Api.Data\\Data.csproj"
               },
-              "C:\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
+              "C:\\webapi_aspnetcore_sdk31\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "C:\\webapi_aspnetcore_sdk31\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }

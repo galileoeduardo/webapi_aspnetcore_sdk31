@@ -5552,11 +5552,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\curso_api_netcore\\src\\Api.Application\\application.csproj",
+      "projectUniqueName": "C:\\webapi_aspnetcore_sdk31\\src\\Api.Application\\application.csproj",
       "projectName": "application",
-      "projectPath": "C:\\curso_api_netcore\\src\\Api.Application\\application.csproj",
+      "projectPath": "C:\\webapi_aspnetcore_sdk31\\src\\Api.Application\\application.csproj",
       "packagesPath": "C:\\Users\\galil\\.nuget\\packages\\",
-      "outputPath": "C:\\curso_api_netcore\\src\\Api.Application\\obj\\",
+      "outputPath": "C:\\webapi_aspnetcore_sdk31\\src\\Api.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\galil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5573,14 +5573,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
-              "projectPath": "C:\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj"
+            "C:\\webapi_aspnetcore_sdk31\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+              "projectPath": "C:\\webapi_aspnetcore_sdk31\\src\\Api.CrossCutting\\CrossCutting.csproj"
             },
-            "C:\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj": {
-              "projectPath": "C:\\curso_api_netcore\\src\\Api.Domain\\Domain.csproj"
+            "C:\\webapi_aspnetcore_sdk31\\src\\Api.Domain\\Domain.csproj": {
+              "projectPath": "C:\\webapi_aspnetcore_sdk31\\src\\Api.Domain\\Domain.csproj"
             },
-            "C:\\curso_api_netcore\\src\\Api.Service\\Service.csproj": {
-              "projectPath": "C:\\curso_api_netcore\\src\\Api.Service\\Service.csproj"
+            "C:\\webapi_aspnetcore_sdk31\\src\\Api.Service\\Service.csproj": {
+              "projectPath": "C:\\webapi_aspnetcore_sdk31\\src\\Api.Service\\Service.csproj"
             }
           }
         }
