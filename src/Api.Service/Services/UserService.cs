@@ -14,27 +14,19 @@ namespace Api.Service.Services
         {
             _repository = repository;
         }
-        public async Task<bool> Delete(Guid id)
+        public async Task<bool> Delete(int id)
         {
             return await _repository.DeleteAsync(id);
         }
 
-        public async Task<UserEntity> Get(Guid id)
+        public async Task<UserEntity> Get(int id)
         {
             return await _repository.SelectAsync(id);
         }
 
         public async Task<IEnumerable<UserEntity>> GetAll()
         {
-            try
-            {
-                return await _repository.SelectAsync();
-            }
-            catch (Exception e)
-            {
-                throw e;
-            }
-            
+            return await _repository.SelectAsync();
         }
 
         public async Task<UserEntity> Post(UserEntity user)

@@ -1,3 +1,7 @@
+C:\webapi_aspnetcore_sdk31\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csprojAssemblyReference.cache
+C:\webapi_aspnetcore_sdk31\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+C:\webapi_aspnetcore_sdk31\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+C:\webapi_aspnetcore_sdk31\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
 C:\webapi_aspnetcore_sdk31\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.deps.json
 C:\webapi_aspnetcore_sdk31\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.dll
 C:\webapi_aspnetcore_sdk31\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.pdb
@@ -7,10 +11,6 @@ C:\webapi_aspnetcore_sdk31\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.
 C:\webapi_aspnetcore_sdk31\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.pdb
 C:\webapi_aspnetcore_sdk31\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.pdb
 C:\webapi_aspnetcore_sdk31\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.pdb
-C:\webapi_aspnetcore_sdk31\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csprojAssemblyReference.cache
-C:\webapi_aspnetcore_sdk31\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
-C:\webapi_aspnetcore_sdk31\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
-C:\webapi_aspnetcore_sdk31\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
 C:\webapi_aspnetcore_sdk31\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CopyComplete
 C:\webapi_aspnetcore_sdk31\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
 C:\webapi_aspnetcore_sdk31\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb

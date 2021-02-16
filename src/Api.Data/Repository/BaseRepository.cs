@@ -17,7 +17,7 @@ namespace Api.Data.Repository
             _context = context;
             _dataset = _context.Set<Table>();
         }
-        public async Task<bool> DeleteAsync(Guid id)
+        public async Task<bool> DeleteAsync(int id)
         {
             try
             {
@@ -57,7 +57,7 @@ namespace Api.Data.Repository
             return entity;
         }
 
-        public async Task<Table> SelectAsync(Guid id)
+        public async Task<Table> SelectAsync(int id)
         {
             try
             {
@@ -106,7 +106,7 @@ namespace Api.Data.Repository
             return entity;
         }
 
-        public async Task<bool> ExistAsync(Guid id)
+        public async Task<bool> ExistAsync(int id)
         {
             return await _dataset.AnyAsync(p => p.Id.Equals(id));
         }

@@ -1,3 +1,8 @@
+C:\webapi_aspnetcore_sdk31\src\Api.Application\obj\Debug\netcoreapp3.1\application.csprojAssemblyReference.cache
+C:\webapi_aspnetcore_sdk31\src\Api.Application\obj\Debug\netcoreapp3.1\application.AssemblyInfoInputs.cache
+C:\webapi_aspnetcore_sdk31\src\Api.Application\obj\Debug\netcoreapp3.1\application.AssemblyInfo.cs
+C:\webapi_aspnetcore_sdk31\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.CoreCompileInputs.cache
+C:\webapi_aspnetcore_sdk31\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cache
 C:\webapi_aspnetcore_sdk31\src\Api.Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\webapi_aspnetcore_sdk31\src\Api.Application\bin\Debug\netcoreapp3.1\appsettings.json
 C:\webapi_aspnetcore_sdk31\src\Api.Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -61,11 +66,6 @@ C:\webapi_aspnetcore_sdk31\src\Api.Application\bin\Debug\netcoreapp3.1\Domain.pd
 C:\webapi_aspnetcore_sdk31\src\Api.Application\bin\Debug\netcoreapp3.1\Service.pdb
 C:\webapi_aspnetcore_sdk31\src\Api.Application\bin\Debug\netcoreapp3.1\CrossCutting.pdb
 C:\webapi_aspnetcore_sdk31\src\Api.Application\bin\Debug\netcoreapp3.1\Data.pdb
-C:\webapi_aspnetcore_sdk31\src\Api.Application\obj\Debug\netcoreapp3.1\application.csprojAssemblyReference.cache
-C:\webapi_aspnetcore_sdk31\src\Api.Application\obj\Debug\netcoreapp3.1\application.AssemblyInfoInputs.cache
-C:\webapi_aspnetcore_sdk31\src\Api.Application\obj\Debug\netcoreapp3.1\application.AssemblyInfo.cs
-C:\webapi_aspnetcore_sdk31\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.CoreCompileInputs.cache
-C:\webapi_aspnetcore_sdk31\src\Api.Application\obj\Debug\netcoreapp3.1\application.MvcApplicationPartsAssemblyInfo.cache
 C:\webapi_aspnetcore_sdk31\src\Api.Application\obj\Debug\netcoreapp3.1\application.RazorTargetAssemblyInfo.cache
 C:\webapi_aspnetcore_sdk31\src\Api.Application\obj\Debug\netcoreapp3.1\application.csproj.CopyComplete
 C:\webapi_aspnetcore_sdk31\src\Api.Application\obj\Debug\netcoreapp3.1\staticwebassets\application.StaticWebAssets.Manifest.cache
