@@ -43,7 +43,6 @@ namespace Api.Data.Repository
         {
             try
             {
-                if (entity.Id == Guid.Empty) entity.Id = Guid.NewGuid();
                 entity.CreatedAt = DateTime.UtcNow;
                 _dataset.Add(entity);
 

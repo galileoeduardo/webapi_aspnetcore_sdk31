@@ -26,7 +26,15 @@ namespace Api.Service.Services
 
         public async Task<IEnumerable<UserEntity>> GetAll()
         {
-            return await _repository.SelectAsync();
+            try
+            {
+                return await _repository.SelectAsync();
+            }
+            catch (Exception e)
+            {
+                throw e;
+            }
+            
         }
 
         public async Task<UserEntity> Post(UserEntity user)
