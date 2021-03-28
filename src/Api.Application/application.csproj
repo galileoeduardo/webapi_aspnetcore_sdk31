@@ -6,6 +6,7 @@
     <ProjectReference Include="..\Api.CrossCutting\CrossCutting.csproj" />
   </ItemGroup>
 	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.13" />
 		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.0.7" />
 	</ItemGroup>
 
